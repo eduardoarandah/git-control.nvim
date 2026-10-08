@@ -2,6 +2,9 @@
 
 Inspect commits and diffs like a 10x meatproxy! 🧠
 
+1. prev/next commit shown in diffview.nvim
+2. Show a popup with commit message and `git log --graph`
+
 https://github.com/user-attachments/assets/4b9a70b0-637d-42db-bc6e-509a14ecb3ac
 
 ## Requirements
